@@ -23,3 +23,5 @@ And the following command to start the worker:
 ```
 worker/run
 ```
+
+Press `CTRL+D` to exit from the underlying process.
